@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: r-test 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-10 10:00+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/library/base/R/quit.R:12
+msgid "Save workspace image?"
+msgstr ""
+
+#: src/library/utils/R/help.R:87
+msgid "No documentation found"
+msgstr ""
+
+#: src/library/stats/R/lm.R
+msgid "non-numeric argument to binary operator"
+msgstr ""
+
+#: src/main/main.c:1042
+msgid "Fatal error: unable to open the base package"
+msgstr ""
+
+#: src/gnuwin32/rhome.c
+msgid "Unable to locate R home directory"
+msgstr ""
+
+#: src/library/grDevices/R/postscript.R:203 src/library/grDevices/R/pdf.R:156
+msgid "invalid graphics device"
+msgstr ""

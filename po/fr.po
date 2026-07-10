@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: r-test 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-10 10:00+0200\n"
+"PO-Revision-Date: 2026-07-10 10:00+0200\n"
+"Last-Translator: Test Translator <test@example.org>\n"
+"Language-Team: French <fr@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Save workspace image?"
+msgstr "Enregistrer l'image de l'espace de travail ?"
+
+msgid "No documentation found"
+msgstr "Aucune documentation trouvée"
+
+msgid "non-numeric argument to binary operator"
+msgstr "argument non numérique pour l'opérateur binaire"
+
+msgid "Fatal error: unable to open the base package"
+msgstr "Erreur fatale : impossible d'ouvrir le package de base"
+
+msgid "Unable to locate R home directory"
+msgstr "Impossible de localiser le répertoire R home"
+
+msgid "invalid graphics device"
+msgstr "périphérique graphique invalide"
