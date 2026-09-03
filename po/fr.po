@@ -32,3 +32,6 @@ msgstr "périphérique graphique invalide"
 #, c-format
 msgid "object '%s' not found"
 msgstr "objet '%s' introuvable"
+
+msgid "Please quote ticket code RRRRR when contacting support"
+msgstr "Veuillez indiquer le code de ticket RRRRR lorsque vous contactez le support"

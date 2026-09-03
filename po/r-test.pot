@@ -39,3 +39,7 @@ msgstr ""
 #, c-format
 msgid "object '%s' not found"
 msgstr ""
+
+#: src/library/utils/R/support.R:42
+msgid "Please quote ticket code RRRRR when contacting support"
+msgstr ""

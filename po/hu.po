@@ -32,3 +32,6 @@ msgstr ""
 #, c-format
 msgid "object '%s' not found"
 msgstr ""
+
+msgid "Please quote ticket code RRRRR when contacting support"
+msgstr ""

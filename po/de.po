@@ -32,3 +32,6 @@ msgstr "ungültiges Grafikgerät"
 #, c-format
 msgid "object '%s' not found"
 msgstr "Objekt nicht gefunden"
+
+msgid "Please quote ticket code RRRRR when contacting support"
+msgstr "Bitte geben Sie den Ticketcode an, wenn Sie den Support kontaktieren"
