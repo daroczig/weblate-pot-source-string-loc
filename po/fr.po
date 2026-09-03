@@ -28,3 +28,6 @@ msgstr "Impossible de localiser le répertoire R home"
 
 msgid "invalid graphics device"
 msgstr "périphérique graphique invalide"
+
+msgid "object '%s' not found"
+msgstr "objet '%s' introuvable"

@@ -28,3 +28,6 @@ msgstr ""
 
 msgid "invalid graphics device"
 msgstr ""
+
+msgid "object '%s' not found"
+msgstr ""

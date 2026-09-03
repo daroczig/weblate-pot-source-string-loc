@@ -34,3 +34,7 @@ msgstr ""
 #: src/library/grDevices/R/postscript.R:203 src/library/grDevices/R/pdf.R:156
 msgid "invalid graphics device"
 msgstr ""
+
+#: src/main/errors.c:821
+msgid "object '%s' not found"
+msgstr ""
