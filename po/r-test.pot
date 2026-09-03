@@ -36,5 +36,6 @@ msgid "invalid graphics device"
 msgstr ""
 
 #: src/main/errors.c:821
+#, c-format
 msgid "object '%s' not found"
 msgstr ""

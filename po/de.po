@@ -29,5 +29,6 @@ msgstr "R-Home-Verzeichnis kann nicht gefunden werden"
 msgid "invalid graphics device"
 msgstr "ungültiges Grafikgerät"
 
+#, c-format
 msgid "object '%s' not found"
 msgstr "Objekt nicht gefunden"

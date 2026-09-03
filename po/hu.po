@@ -29,5 +29,6 @@ msgstr ""
 msgid "invalid graphics device"
 msgstr ""
 
+#, c-format
 msgid "object '%s' not found"
 msgstr ""
