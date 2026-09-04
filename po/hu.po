@@ -35,3 +35,6 @@ msgstr ""
 
 msgid "Please quote ticket code RRRRR when contacting support"
 msgstr ""
+
+msgid "argument 'fn' must be a function"
+msgstr ""

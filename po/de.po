@@ -35,3 +35,6 @@ msgstr "Objekt nicht gefunden"
 
 msgid "Please quote ticket code RRRRR when contacting support"
 msgstr "Bitte geben Sie den Ticketcode an, wenn Sie den Support kontaktieren"
+
+msgid "argument 'fn' must be a function"
+msgstr "Argument 'fn' muss eine Funktion sein"

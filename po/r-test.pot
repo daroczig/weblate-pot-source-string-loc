@@ -43,3 +43,7 @@ msgstr ""
 #: src/library/utils/R/support.R:42
 msgid "Please quote ticket code RRRRR when contacting support"
 msgstr ""
+
+#: src/library/base/R/eval.R:55
+msgid "argument 'fn' must be a function"
+msgstr ""
